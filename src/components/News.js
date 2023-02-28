@@ -11,6 +11,7 @@ let NewsCard = (props) => {
         class="card-img-top"
         id="new-imgg"
         height={props.height}
+        alt=""
       />
       <div class="card-body">
         <h4 class="card-title">{props.title}</h4>

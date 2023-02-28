@@ -50,6 +50,7 @@ let ReadPage = (props) => {
             <img
               className="news-img"
               src={props.image}
+              alt=""
             ></img>
             <div className="para-container">
               <p className="para">{props.paraone}</p>
