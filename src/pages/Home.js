@@ -1,5 +1,5 @@
 //Importing-Hooks
-import React, { useState, useEffect } from "react";
+import React from "react";
 
 //Bootstrap-Bundle-JS
 import "bootstrap/dist/js/bootstrap.bundle.min";

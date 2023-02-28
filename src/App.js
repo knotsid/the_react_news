@@ -1,5 +1,5 @@
 //Basic React hooks
-import React, { Component, useState, useEffect } from "react";
+import React from "react";
 
 //Importing navigation
 import { Route, Routes } from "react-router-dom";
